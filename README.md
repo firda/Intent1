@@ -1,4 +1,6 @@
-#Judul Project/Aplikasi = Intent3
+#Judul Project/Aplikasi 
+
+* Intent3
 
 #ScreenShoot Aplikasi
 
@@ -9,12 +11,12 @@
 
 #Identitas
 
-Nama          : Firda Naufal Azizah
+  Nama          : Firda Naufal Azizah
 
-Kelas         : XII RPL 2
+  Kelas         : XII RPL 2
 
-No Urut       : 17
+  No Urut       : 17
 
-NIS           : 4346/1244.070
+  NIS           : 4346/1244.070
 
-Nama Sekolah  : SMK TELKOM MALANG
+  Nama Sekolah  : SMK TELKOM MALANG
