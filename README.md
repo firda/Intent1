@@ -1,14 +1,17 @@
-* Judul Project/Aplikasi = Intent1
+#Judul Project/Aplikasi = Intent3
 
-* ScreenShoot Aplikasi 
+#ScreenShoot Aplikasi
 
-![img-20161031-wa0020](https://cloud.githubusercontent.com/assets/21327058/19862008/35640838-9fc1-11e6-9350-d42e597011ad.jpg)
+![xiirpl2 17 activity intent intent1](https://cloud.githubusercontent.com/assets/21327058/19881107/89e96b72-a035-11e6-9171-b4fc4464ac60.jpg)
 
-* Identitas
+![xiirpl2 17 activity intent intent1_2](https://cloud.githubusercontent.com/assets/21327058/19881111/8c7554e6-a035-11e6-8b60-e6d0bb4d784c.jpg)
+
+
+#Identitas
 
 Nama          : Firda Naufal Azizah
 
-Kelas         : XII RPL2
+Kelas         : XII RPL 2
 
 No Urut       : 17
 
